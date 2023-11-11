@@ -1,0 +1,16 @@
+.headlists {
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 2%;
+}
+
+.headlist-buttons {
+  border: none;
+  box-shadow: rgb(199, 199, 199) 0px 2px 0px;
+  border-color: darkgray;
+}
+
+.headlist-active-buttons {
+  border: none;
+  box-shadow: black 0px 2px 0px;
+}

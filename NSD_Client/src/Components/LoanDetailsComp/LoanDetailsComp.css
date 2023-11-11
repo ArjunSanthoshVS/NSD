@@ -1,0 +1,11 @@
+.upload-button{
+    background-color: #DBA953;
+    color: white;
+    border-radius: 8px 8px 8px 8px;
+    margin-bottom: 30px;
+    border: none;
+}
+.card{
+    border: none;
+    padding: 30px;
+}

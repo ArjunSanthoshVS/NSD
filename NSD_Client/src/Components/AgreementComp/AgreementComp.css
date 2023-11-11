@@ -1,0 +1,16 @@
+
+.agreement-download {
+  width: 50%;
+  background-color: #dba953;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border: none;
+  border-radius: 5px 5px 5px 5px;
+}
+
+.signature-textarea{
+    padding: 10px;
+    border-radius: 15px 15px 15px 15px;
+    width: 75%;
+}

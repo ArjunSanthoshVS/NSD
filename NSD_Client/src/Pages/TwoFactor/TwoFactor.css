@@ -1,0 +1,12 @@
+.two-factor-button{
+    background-color: #DBA953;
+    color: white;
+    border: none;
+    border-radius: 8px 8px 8px 8px;
+    padding: 8px;
+}
+
+.cancel-button{
+    background: none;
+    padding: 8px;
+}

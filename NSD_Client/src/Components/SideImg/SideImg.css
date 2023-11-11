@@ -1,0 +1,18 @@
+.FullSideImg {
+  width: 55%;
+}
+.SideImg {
+  width: 100%;
+  position: relative;
+}
+.SideImgShield {
+  position: absolute;
+  top: 38%;
+  left: 16%;
+}
+
+@media (max-width: 768px) {
+  .FullSideImg {
+    display: none;
+  }
+}

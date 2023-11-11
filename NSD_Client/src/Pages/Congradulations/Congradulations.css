@@ -1,0 +1,32 @@
+.congrats {
+  position: relative;
+}
+.globe1 {
+  position: absolute;
+  top: 30%;
+  left: 0;
+}
+.globe2 {
+  position: absolute;
+  top: 41%;
+  left: 52%;
+}
+.globe3 {
+  position: absolute;
+  top: 57%;
+  left: 59%;
+}
+.globe4 {
+  position: absolute;
+  top: 59%;
+  left: 34%;
+}
+.globe5 {
+  position: absolute;
+  top: 73%;
+  left: 93%;
+}
+
+@media only screen and (max-width: 1024px) {
+    
+}
