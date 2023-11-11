@@ -19,6 +19,7 @@ const RegistrationComp = () => {
             const response = await axios.post(`${api.api}/register`, formData);
             console.log(response.data);
             localStorage.setItem("mobile", JSON.stringify(response?.data?.mobile));
+            localStorage.setItem("email", JSON.stringify(response?.data?.email));
             navigate('/otp')
         } catch (error) {
             console.error('Error:', error);

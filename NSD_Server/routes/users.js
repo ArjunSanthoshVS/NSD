@@ -8,5 +8,7 @@ router.post('/login', userController.login);
 router.get('/otpVerify', userController.otpVerify);
 router.get('/googleLogin', userController.googleLogin);
 router.post('/payment', userController.payment);
+router.post('/emailOTP', userController.emailOTP);
+router.post('/verifyEmailOtp', userController.verifyEmailOtp);
 
 module.exports = router;
